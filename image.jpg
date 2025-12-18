@@ -1,14 +1,2 @@
-##  Live Interaction Preview
+blank
 
-<p align="center">
-  <img src="image.png" alt="Hand Tracking Interaction" width="600">
-  <br>
-  <i>Real-time interaction: Controlling the particle sphere using hand gestures.</i>
-</p>
-
----
-
-### 🚀 Key Interactions Shown Above:
-* **Neural Tracking:** The AI identifies hand landmarks through the webcam.
-* **Spatial Mapping:** Hand coordinates are translated into the 3D WebGL environment.
-* **Dynamic Physics:** Particles reacting to the proximity of the user's hands.
